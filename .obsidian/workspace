@@ -7,11 +7,9 @@
         "id": "46ed1676381fa766",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "It's easy to use.md",
-            "mode": "source",
-            "source": false
+            "file": "ezgif.com-gif-maker.gif"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "It's easy to use.md",
+                "file": "ezgif.com-gif-maker.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "It's easy to use.md"
+                "file": "ezgif.com-gif-maker.gif"
               }
             }
           }
@@ -100,6 +98,8 @@
   },
   "active": "46ed1676381fa766",
   "lastOpenFiles": [
+    "ezgif.com-gif-maker.gif",
+    "Screenshot 2022-04-29 at 14.19.11.png",
     "It's easy to use.md",
     "Screenshot 2022-04-29 at 14.19.11.png.md",
     "Anyone can use it.md",
@@ -107,7 +107,6 @@
     "Shows your alternative solutions.md",
     "why you should use copilot.md",
     "It's fun to use.md",
-    "[here.md",
-    "test.md"
+    "[here.md"
   ]
 }
