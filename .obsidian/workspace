@@ -7,7 +7,7 @@
         "id": "8af85176f71a7add",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -93,9 +93,9 @@
   },
   "active": "8af85176f71a7add",
   "lastOpenFiles": [
-    "Screenshot 2022-04-29 at 14.19.11.png",
     "It's easy to use.md",
     "why you should use copilot.md",
+    "Screenshot 2022-04-29 at 14.19.11.png",
     "ezgif.com-gif-maker.gif",
     "Screenshot 2022-04-29 at 14.19.11.png.md",
     "Anyone can use it.md",
