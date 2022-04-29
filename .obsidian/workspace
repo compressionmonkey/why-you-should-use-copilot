@@ -7,12 +7,8 @@
         "id": "f9f1815de21edc75",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "why you should use copilot.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "why you should use copilot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "why you should use copilot.md"
-              }
+              "state": {}
             }
           }
         ],
