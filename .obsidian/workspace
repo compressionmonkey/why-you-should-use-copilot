@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "be3bb7947c0b50d4",
+        "id": "67d1044c2275c66f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -97,11 +97,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "be3bb7947c0b50d4",
+  "active": "67d1044c2275c66f",
   "lastOpenFiles": [
     "It's easy to use.md",
-    "Anyone can use it.md",
     "README.md",
+    "[here.md",
+    "Anyone can use it.md",
     "It's fun to use.md",
     "test.md"
   ]
