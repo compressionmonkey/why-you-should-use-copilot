@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "8af85176f71a7add",
+        "id": "64049b7cda7614bf",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -91,7 +91,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8af85176f71a7add",
+  "active": "64049b7cda7614bf",
   "lastOpenFiles": [
     "why you should use copilot.md",
     "It's easy to use.md",
