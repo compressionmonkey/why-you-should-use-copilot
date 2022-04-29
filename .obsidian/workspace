@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "484e7419bebe6d2d",
+        "id": "be3bb7947c0b50d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "It's easy to use.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "It's easy to use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "It's easy to use.md"
               }
             }
           }
@@ -97,10 +97,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "484e7419bebe6d2d",
+  "active": "be3bb7947c0b50d4",
   "lastOpenFiles": [
-    "README.md",
     "It's easy to use.md",
+    "Anyone can use it.md",
+    "README.md",
     "It's fun to use.md",
     "test.md"
   ]
