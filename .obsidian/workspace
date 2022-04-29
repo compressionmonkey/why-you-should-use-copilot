@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "It's easy to use.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "It's easy to use.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "It's easy to use.md"
+                "file": "README.md"
               }
             }
           }
@@ -100,8 +100,8 @@
   },
   "active": "5001b0e8014635ff",
   "lastOpenFiles": [
-    "It's easy to use.md",
     "README.md",
+    "It's easy to use.md",
     "Anyone can use it.md",
     "It's fun to use.md",
     "As Simple As writing a comment.md",
