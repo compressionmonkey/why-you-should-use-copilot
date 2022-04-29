@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "As Simple As writing a comment.md",
+            "file": "It's easy to use.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "As Simple As writing a comment.md",
+                "file": "It's easy to use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "As Simple As writing a comment.md"
+                "file": "It's easy to use.md"
               }
             }
           }
@@ -95,17 +95,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "5001b0e8014635ff",
   "lastOpenFiles": [
-    "As Simple As writing a comment.md",
     "It's easy to use.md",
     "README.md",
-    "Shows your alternative solutions.md",
     "Anyone can use it.md",
-    "[here.md",
     "It's fun to use.md",
+    "As Simple As writing a comment.md",
+    "Shows your alternative solutions.md",
+    "[here.md",
     "test.md"
   ]
 }
