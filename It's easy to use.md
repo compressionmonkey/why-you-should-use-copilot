@@ -6,4 +6,4 @@
 
 [[Shows your alternative solutions]]
 
-![[Screen Recording 2022-04-29 at 14.19.27.mov]]
+![[ezgif.com-gif-maker.gif]]
