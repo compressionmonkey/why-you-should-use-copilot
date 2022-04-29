@@ -7,8 +7,12 @@
         "id": "8af85176f71a7add",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "why you should use copilot.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "why you should use copilot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "why you should use copilot.md"
+              }
             }
           }
         ],
@@ -93,8 +100,8 @@
   },
   "active": "8af85176f71a7add",
   "lastOpenFiles": [
-    "It's easy to use.md",
     "why you should use copilot.md",
+    "It's easy to use.md",
     "Screenshot 2022-04-29 at 14.19.11.png",
     "ezgif.com-gif-maker.gif",
     "Screenshot 2022-04-29 at 14.19.11.png.md",
